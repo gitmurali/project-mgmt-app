@@ -9,6 +9,7 @@ export default function Home() {
         <AddClientModal />
       </div>
       <Projects />
+      <hr />
       <Clients />
     </>
   );
